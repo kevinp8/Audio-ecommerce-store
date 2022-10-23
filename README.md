@@ -1,4 +1,4 @@
-<a href="https://audio-ecommerce-store.vercel.app/">LIVE DEMO</a>
+<a href="https://audio-ecommerce-store.vercel.app/" target="_blank">LIVE DEMO</a>
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
