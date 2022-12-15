@@ -1,4 +1,4 @@
-# My Awesome Project
+# AudioStore
 This is an eCommerce Store that sells audio products.
 
 <a href="https://audio-ecommerce-store.vercel.app/" target="_blank">LIVE DEMO</a>
